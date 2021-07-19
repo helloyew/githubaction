@@ -1,0 +1,7 @@
+name: helloGithubAction
+
+on: [push]
+
+jobs:
+build:
+runs-on: 
